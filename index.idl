@@ -3,13 +3,13 @@
   author:"Matthew Conlen"
   authorLink:"https://twitter.com/mathisonian" /]
 
-<section class="article-body">
+[section className:"article-body”]
 
 [var name:"theta" value:`Math.PI / 4` /]
 [var name:"stage" value:`` /]
 
 
-Ed. Note: Mouseover the blue links to see concepts demonstrated visually.
+[i]Ed. Note: Mouseover the blue links to see concepts demonstrated visually.[/i]
 
 You may have learned about trigonometric functions such as **sine** and **cosine** as being defined by
 the ratios of sides of a triangle (*SOHCAHTOA*),
@@ -65,4 +65,4 @@ trigonometric functions. Click to lock in a particular angle or function.
 [/fixed]
 
 [IdyllFooter markupUrl:"https://github.com/mathisonian/trig/blob/master/etymology/index.idl" /]
-</section>
+[/section]
