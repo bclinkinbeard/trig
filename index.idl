@@ -1,16 +1,12 @@
-[IdyllLogo /]
-
 [Header
   title:"The Etymology of Trig Functions"
   author:"Matthew Conlen"
   authorLink:"https://twitter.com/mathisonian" /]
 
-[section className:"article-body"]
-
 [var name:"theta" value:`Math.PI / 4` /]
 [var name:"stage" value:`` /]
 
-[i]Ed. Note: Mouseover the blue links to see concepts demonstrated visually.[/i]
+Ed. Note: Mouseover the blue links to see concepts demonstrated visually.
 
 You may have learned about trigonometric functions such as **sine** and **cosine** as being defined by
 the ratios of sides of a triangle (*SOHCAHTOA*),
@@ -52,10 +48,10 @@ to the point where the tangent line intercepts the x-axis[/action]. Note that if
 unit circle neatly in half. Again, the **cosecant** can be thought of as being the same as [action onMouseOver:`stage = 'cosec'`]the same function
 with respect to the y-axis[/action].
 
-[desktop]
+<div class="desktop">
 If you want to explore more move your mouse over the unit circle to the right. Move your mouse to change the displayed angle and select different
 trigonometric functions. Click to lock in a particular angle or function.
-[/desktop]
+</div>
 
 [fixed]
 
@@ -66,6 +62,3 @@ trigonometric functions. Click to lock in a particular angle or function.
 [/fixed]
 
 [IdyllFooter markupUrl:"https://github.com/mathisonian/trig/blob/master/etymology/index.idl" /]
-
-[/section]
-
