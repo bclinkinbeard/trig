@@ -3,8 +3,11 @@
   author:"Matthew Conlen"
   authorLink:"https://twitter.com/mathisonian" /]
 
+<section class="article-body">
+
 [var name:"theta" value:`Math.PI / 4` /]
 [var name:"stage" value:`` /]
+
 
 Ed. Note: Mouseover the blue links to see concepts demonstrated visually.
 
@@ -62,3 +65,4 @@ trigonometric functions. Click to lock in a particular angle or function.
 [/fixed]
 
 [IdyllFooter markupUrl:"https://github.com/mathisonian/trig/blob/master/etymology/index.idl" /]
+</section>
