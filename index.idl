@@ -8,7 +8,7 @@
 [var name:"theta" value:`Math.PI / 4` /]
 [var name:"stage" value:`` /]
 
-[em]Ed. Note: Mouseover the blue links to see concepts demonstrated visually.[/em]
+[em]Editor's Note: Mouseover the blue links to see concepts demonstrated visually.[/em]
 
 You may have learned about trigonometric functions such as **sine** and **cosine** as being defined by
 the ratios of sides of a triangle (*SOHCAHTOA*),
